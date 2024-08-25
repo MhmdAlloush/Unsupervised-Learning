@@ -130,8 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-solutions/clustering-pca-k-means-dbscan-hierarchical-solution.ipynb
-solutions/collaborative-recommendation-solution.ipynb
-solutions/kmeans_scratch_implementation_solution.ipynb
-solutions/news_clustering_unsupervised_ml-solution.ipynb
 UnsupervisedVenv/Scripts/python.exe
