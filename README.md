@@ -1,2 +1,1 @@
-# TheAIEngineers-Notebooks
-This Repository consists of the notebooks used in TheAIEngineers Program
+This repository contains some unsupervised machine learning porjects with the data used in each project!!
