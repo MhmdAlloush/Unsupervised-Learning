@@ -130,4 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-UnsupervisedVenv/Scripts/python.exe
+
+D:\ML & AI\AI-Engineer Program\unsupervised_Learing\unsupervised\customer-churn-prediction
